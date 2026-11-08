@@ -18,6 +18,11 @@ LinkClipper is a local-first Chrome/Brave (MV3) extension that clips anything yo
 | [`linkclipper/brand`](https://github.com/linkclipper/brand) | Identity: icons, logo, store screenshots |
 | [`linkclipper/design-system`](https://github.com/linkclipper/design-system) | Product design: UI tokens, components, interaction laws |
 | [`linkclipper/Progress-Memory`](https://github.com/linkclipper/Progress-Memory) | Organizational continuity: status snapshot, monthly ledgers |
+| [`linkclipper/Workflows`](https://github.com/linkclipper/Workflows) | Operational procedures: releases, screenshots, sessions, triage |
+| [`linkclipper/Security-Trust`](https://github.com/linkclipper/Security-Trust) | Threat model, trust surfaces, standing security rules |
+| [`linkclipper/Monetization`](https://github.com/linkclipper/Monetization) | Pricing/business model — free core forever, ban list |
+| [`linkclipper/Marketing`](https://github.com/linkclipper/Marketing) | Positioning, launch sequence, copy bank |
+| [`linkclipper/Data-Analytics`](https://github.com/linkclipper/Data-Analytics) | Measurement policy: zero-telemetry law, passive metrics |
 | [`linkclipper/linkclipper.github.io`](https://github.com/linkclipper/linkclipper.github.io) | Website + privacy policy |
 | `.github` | This org profile |
 
