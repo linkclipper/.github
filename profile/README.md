@@ -15,7 +15,9 @@ LinkClipper is a local-first Chrome/Brave (MV3) extension that clips anything yo
 | [`linkclipper/linkclipper`](https://github.com/linkclipper/linkclipper) | The extension — source, CI, releases |
 | [`linkclipper/Knowledgebase`](https://github.com/linkclipper/Knowledgebase) | ADRs, empirical research, runbooks, design specs |
 | [`linkclipper/backend`](https://github.com/linkclipper/backend) | Supabase schema & policies (sync mirror → share → discovery) |
-| [`linkclipper/brand`](https://github.com/linkclipper/brand) | Icons, visual system, store screenshots |
+| [`linkclipper/brand`](https://github.com/linkclipper/brand) | Identity: icons, logo, store screenshots |
+| [`linkclipper/design-system`](https://github.com/linkclipper/design-system) | Product design: UI tokens, components, interaction laws |
+| [`linkclipper/Progress-Memory`](https://github.com/linkclipper/Progress-Memory) | Organizational continuity: status snapshot, monthly ledgers |
 | [`linkclipper/linkclipper.github.io`](https://github.com/linkclipper/linkclipper.github.io) | Website + privacy policy |
 | `.github` | This org profile |
 
